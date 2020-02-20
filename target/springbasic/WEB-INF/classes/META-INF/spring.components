@@ -1,0 +1,3 @@
+com.moonsoo.cli.Main=org.springframework.stereotype.Component
+com.moonsoo.web.SimpleFilter=javax.servlet.annotation.WebFilter
+com.moonsoo.web.SimpleServlet=javax.servlet.annotation.WebServlet
